@@ -27,8 +27,8 @@ Pomodoro Timer 是一款基于 Electron + React + Vite 开发的跨平台番茄�
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/你的仓库名.git
-cd pomodoro-app（done）
+git clone https://github.com/Norman-lawyer/pomodoro-timer.git
+cd pomodoro-timer
 ```
 
 ### 2. 安装依赖
@@ -74,19 +74,19 @@ npm run electron:build
 
 **主界面（浅色模式）**
 
-![主界面-浅色](screenshot/main-light.png)
+![主界面-浅色](public/screenshot/main-light.png)
 
 **主界面（深色模式）**
 
-![主界面-深色](screenshot/main-dark.png)
+![主界面-深色](public/screenshot/main-dark.png)
 
 **历史记录**
 
-![历史记录](screenshot/hisitory.png)
+![历史记录](public/screenshot/hisitory.png)
 
 **统计分析**
 
-![统计分析](screenshot/statics.png)
+![统计分析](public/screenshot/statics.png)
 
 ---
 
